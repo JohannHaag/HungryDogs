@@ -1,0 +1,24 @@
+C:\Users\haagj\Documents\5BHIF_Gesamt\5bhif\PROO\HungryDogsLiveDemo-master (2)\HungryDogsLiveDemo-master\CommonBase\bin\Debug\netcoreapp3.1\CommonBase.deps.json
+C:\Users\haagj\Documents\5BHIF_Gesamt\5bhif\PROO\HungryDogsLiveDemo-master (2)\HungryDogsLiveDemo-master\CommonBase\bin\Debug\netcoreapp3.1\CommonBase.dll
+C:\Users\haagj\Documents\5BHIF_Gesamt\5bhif\PROO\HungryDogsLiveDemo-master (2)\HungryDogsLiveDemo-master\CommonBase\bin\Debug\netcoreapp3.1\CommonBase.pdb
+C:\Users\haagj\Documents\5BHIF_Gesamt\5bhif\PROO\HungryDogsLiveDemo-master (2)\HungryDogsLiveDemo-master\CommonBase\obj\Debug\netcoreapp3.1\CommonBase.csprojAssemblyReference.cache
+C:\Users\haagj\Documents\5BHIF_Gesamt\5bhif\PROO\HungryDogsLiveDemo-master (2)\HungryDogsLiveDemo-master\CommonBase\obj\Debug\netcoreapp3.1\CommonBase.AssemblyInfoInputs.cache
+C:\Users\haagj\Documents\5BHIF_Gesamt\5bhif\PROO\HungryDogsLiveDemo-master (2)\HungryDogsLiveDemo-master\CommonBase\obj\Debug\netcoreapp3.1\CommonBase.AssemblyInfo.cs
+C:\Users\haagj\Documents\5BHIF_Gesamt\5bhif\PROO\HungryDogsLiveDemo-master (2)\HungryDogsLiveDemo-master\CommonBase\obj\Debug\netcoreapp3.1\CommonBase.csproj.CoreCompileInputs.cache
+C:\Users\haagj\Documents\5BHIF_Gesamt\5bhif\PROO\HungryDogsLiveDemo-master (2)\HungryDogsLiveDemo-master\CommonBase\obj\Debug\netcoreapp3.1\CommonBase.dll
+C:\Users\haagj\Documents\5BHIF_Gesamt\5bhif\PROO\HungryDogsLiveDemo-master (2)\HungryDogsLiveDemo-master\CommonBase\obj\Debug\netcoreapp3.1\CommonBase.pdb
+C:\Users\haagj\Documents\5BHIF_Gesamt\5bhif\PROO\HungryDogsLiveDemo-master (2)\HungryDogsLiveDemo-master\CommonBase\bin\Debug\netcoreapp3.1\CommonBase.runtimeconfig.json
+C:\Users\haagj\Documents\5BHIF_Gesamt\5bhif\PROO\HungryDogsLiveDemo-master (2)\HungryDogsLiveDemo-master\CommonBase\bin\Debug\netcoreapp3.1\CommonBase.runtimeconfig.dev.json
+C:\Users\haagj\Documents\5BHIF_Gesamt\5bhif\PROO\HungryDogsLiveDemo-master (2)\HungryDogsLiveDemo-master\CommonBase\obj\Debug\netcoreapp3.1\CommonBase.genruntimeconfig.cache
+C:\Users\haagj\Documents\5BHIF_Gesamt\5bhif\PROO\HungryDogsLiveDemo-master\CommonBase\bin\Debug\netcoreapp3.1\CommonBase.deps.json
+C:\Users\haagj\Documents\5BHIF_Gesamt\5bhif\PROO\HungryDogsLiveDemo-master\CommonBase\bin\Debug\netcoreapp3.1\CommonBase.runtimeconfig.json
+C:\Users\haagj\Documents\5BHIF_Gesamt\5bhif\PROO\HungryDogsLiveDemo-master\CommonBase\bin\Debug\netcoreapp3.1\CommonBase.runtimeconfig.dev.json
+C:\Users\haagj\Documents\5BHIF_Gesamt\5bhif\PROO\HungryDogsLiveDemo-master\CommonBase\bin\Debug\netcoreapp3.1\CommonBase.dll
+C:\Users\haagj\Documents\5BHIF_Gesamt\5bhif\PROO\HungryDogsLiveDemo-master\CommonBase\bin\Debug\netcoreapp3.1\CommonBase.pdb
+C:\Users\haagj\Documents\5BHIF_Gesamt\5bhif\PROO\HungryDogsLiveDemo-master\CommonBase\obj\Debug\netcoreapp3.1\CommonBase.csprojAssemblyReference.cache
+C:\Users\haagj\Documents\5BHIF_Gesamt\5bhif\PROO\HungryDogsLiveDemo-master\CommonBase\obj\Debug\netcoreapp3.1\CommonBase.AssemblyInfoInputs.cache
+C:\Users\haagj\Documents\5BHIF_Gesamt\5bhif\PROO\HungryDogsLiveDemo-master\CommonBase\obj\Debug\netcoreapp3.1\CommonBase.AssemblyInfo.cs
+C:\Users\haagj\Documents\5BHIF_Gesamt\5bhif\PROO\HungryDogsLiveDemo-master\CommonBase\obj\Debug\netcoreapp3.1\CommonBase.csproj.CoreCompileInputs.cache
+C:\Users\haagj\Documents\5BHIF_Gesamt\5bhif\PROO\HungryDogsLiveDemo-master\CommonBase\obj\Debug\netcoreapp3.1\CommonBase.dll
+C:\Users\haagj\Documents\5BHIF_Gesamt\5bhif\PROO\HungryDogsLiveDemo-master\CommonBase\obj\Debug\netcoreapp3.1\CommonBase.pdb
+C:\Users\haagj\Documents\5BHIF_Gesamt\5bhif\PROO\HungryDogsLiveDemo-master\CommonBase\obj\Debug\netcoreapp3.1\CommonBase.genruntimeconfig.cache
