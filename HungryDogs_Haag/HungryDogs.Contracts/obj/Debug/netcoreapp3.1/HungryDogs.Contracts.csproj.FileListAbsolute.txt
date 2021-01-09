@@ -1,0 +1,30 @@
+C:\Users\haagj\Documents\5BHIF_Gesamt\5bhif\PROO\HungryDogsLiveDemo-master (2)\HungryDogsLiveDemo-master\HungryDogs.Contracts\bin\Debug\netcoreapp3.1\HungryDogs.Contracts.deps.json
+C:\Users\haagj\Documents\5BHIF_Gesamt\5bhif\PROO\HungryDogsLiveDemo-master (2)\HungryDogsLiveDemo-master\HungryDogs.Contracts\bin\Debug\netcoreapp3.1\HungryDogs.Contracts.dll
+C:\Users\haagj\Documents\5BHIF_Gesamt\5bhif\PROO\HungryDogsLiveDemo-master (2)\HungryDogsLiveDemo-master\HungryDogs.Contracts\bin\Debug\netcoreapp3.1\HungryDogs.Contracts.pdb
+C:\Users\haagj\Documents\5BHIF_Gesamt\5bhif\PROO\HungryDogsLiveDemo-master (2)\HungryDogsLiveDemo-master\HungryDogs.Contracts\bin\Debug\netcoreapp3.1\CommonBase.dll
+C:\Users\haagj\Documents\5BHIF_Gesamt\5bhif\PROO\HungryDogsLiveDemo-master (2)\HungryDogsLiveDemo-master\HungryDogs.Contracts\bin\Debug\netcoreapp3.1\CommonBase.pdb
+C:\Users\haagj\Documents\5BHIF_Gesamt\5bhif\PROO\HungryDogsLiveDemo-master (2)\HungryDogsLiveDemo-master\HungryDogs.Contracts\obj\Debug\netcoreapp3.1\HungryDogs.Contracts.csprojAssemblyReference.cache
+C:\Users\haagj\Documents\5BHIF_Gesamt\5bhif\PROO\HungryDogsLiveDemo-master (2)\HungryDogsLiveDemo-master\HungryDogs.Contracts\obj\Debug\netcoreapp3.1\HungryDogs.Contracts.AssemblyInfoInputs.cache
+C:\Users\haagj\Documents\5BHIF_Gesamt\5bhif\PROO\HungryDogsLiveDemo-master (2)\HungryDogsLiveDemo-master\HungryDogs.Contracts\obj\Debug\netcoreapp3.1\HungryDogs.Contracts.AssemblyInfo.cs
+C:\Users\haagj\Documents\5BHIF_Gesamt\5bhif\PROO\HungryDogsLiveDemo-master (2)\HungryDogsLiveDemo-master\HungryDogs.Contracts\obj\Debug\netcoreapp3.1\HungryDogs.Contracts.csproj.CoreCompileInputs.cache
+C:\Users\haagj\Documents\5BHIF_Gesamt\5bhif\PROO\HungryDogsLiveDemo-master (2)\HungryDogsLiveDemo-master\HungryDogs.Contracts\obj\Debug\netcoreapp3.1\HungryDogs.Contracts.csproj.CopyComplete
+C:\Users\haagj\Documents\5BHIF_Gesamt\5bhif\PROO\HungryDogsLiveDemo-master (2)\HungryDogsLiveDemo-master\HungryDogs.Contracts\obj\Debug\netcoreapp3.1\HungryDogs.Contracts.dll
+C:\Users\haagj\Documents\5BHIF_Gesamt\5bhif\PROO\HungryDogsLiveDemo-master (2)\HungryDogsLiveDemo-master\HungryDogs.Contracts\obj\Debug\netcoreapp3.1\HungryDogs.Contracts.pdb
+C:\Users\haagj\Documents\5BHIF_Gesamt\5bhif\PROO\HungryDogsLiveDemo-master (2)\HungryDogsLiveDemo-master\HungryDogs.Contracts\bin\Debug\netcoreapp3.1\HungryDogs.Contracts.runtimeconfig.json
+C:\Users\haagj\Documents\5BHIF_Gesamt\5bhif\PROO\HungryDogsLiveDemo-master (2)\HungryDogsLiveDemo-master\HungryDogs.Contracts\bin\Debug\netcoreapp3.1\HungryDogs.Contracts.runtimeconfig.dev.json
+C:\Users\haagj\Documents\5BHIF_Gesamt\5bhif\PROO\HungryDogsLiveDemo-master (2)\HungryDogsLiveDemo-master\HungryDogs.Contracts\obj\Debug\netcoreapp3.1\HungryDogs.Contracts.genruntimeconfig.cache
+C:\Users\haagj\Documents\5BHIF_Gesamt\5bhif\PROO\HungryDogsLiveDemo-master\HungryDogs.Contracts\bin\Debug\netcoreapp3.1\HungryDogs.Contracts.deps.json
+C:\Users\haagj\Documents\5BHIF_Gesamt\5bhif\PROO\HungryDogsLiveDemo-master\HungryDogs.Contracts\bin\Debug\netcoreapp3.1\HungryDogs.Contracts.runtimeconfig.json
+C:\Users\haagj\Documents\5BHIF_Gesamt\5bhif\PROO\HungryDogsLiveDemo-master\HungryDogs.Contracts\bin\Debug\netcoreapp3.1\HungryDogs.Contracts.runtimeconfig.dev.json
+C:\Users\haagj\Documents\5BHIF_Gesamt\5bhif\PROO\HungryDogsLiveDemo-master\HungryDogs.Contracts\bin\Debug\netcoreapp3.1\HungryDogs.Contracts.dll
+C:\Users\haagj\Documents\5BHIF_Gesamt\5bhif\PROO\HungryDogsLiveDemo-master\HungryDogs.Contracts\bin\Debug\netcoreapp3.1\HungryDogs.Contracts.pdb
+C:\Users\haagj\Documents\5BHIF_Gesamt\5bhif\PROO\HungryDogsLiveDemo-master\HungryDogs.Contracts\bin\Debug\netcoreapp3.1\CommonBase.dll
+C:\Users\haagj\Documents\5BHIF_Gesamt\5bhif\PROO\HungryDogsLiveDemo-master\HungryDogs.Contracts\bin\Debug\netcoreapp3.1\CommonBase.pdb
+C:\Users\haagj\Documents\5BHIF_Gesamt\5bhif\PROO\HungryDogsLiveDemo-master\HungryDogs.Contracts\obj\Debug\netcoreapp3.1\HungryDogs.Contracts.csprojAssemblyReference.cache
+C:\Users\haagj\Documents\5BHIF_Gesamt\5bhif\PROO\HungryDogsLiveDemo-master\HungryDogs.Contracts\obj\Debug\netcoreapp3.1\HungryDogs.Contracts.AssemblyInfoInputs.cache
+C:\Users\haagj\Documents\5BHIF_Gesamt\5bhif\PROO\HungryDogsLiveDemo-master\HungryDogs.Contracts\obj\Debug\netcoreapp3.1\HungryDogs.Contracts.AssemblyInfo.cs
+C:\Users\haagj\Documents\5BHIF_Gesamt\5bhif\PROO\HungryDogsLiveDemo-master\HungryDogs.Contracts\obj\Debug\netcoreapp3.1\HungryDogs.Contracts.csproj.CoreCompileInputs.cache
+C:\Users\haagj\Documents\5BHIF_Gesamt\5bhif\PROO\HungryDogsLiveDemo-master\HungryDogs.Contracts\obj\Debug\netcoreapp3.1\HungryDogs.Contracts.csproj.CopyComplete
+C:\Users\haagj\Documents\5BHIF_Gesamt\5bhif\PROO\HungryDogsLiveDemo-master\HungryDogs.Contracts\obj\Debug\netcoreapp3.1\HungryDogs.Contracts.dll
+C:\Users\haagj\Documents\5BHIF_Gesamt\5bhif\PROO\HungryDogsLiveDemo-master\HungryDogs.Contracts\obj\Debug\netcoreapp3.1\HungryDogs.Contracts.pdb
+C:\Users\haagj\Documents\5BHIF_Gesamt\5bhif\PROO\HungryDogsLiveDemo-master\HungryDogs.Contracts\obj\Debug\netcoreapp3.1\HungryDogs.Contracts.genruntimeconfig.cache
