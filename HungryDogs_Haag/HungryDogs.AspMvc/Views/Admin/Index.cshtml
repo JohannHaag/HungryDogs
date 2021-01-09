@@ -1,0 +1,82 @@
+﻿@model HungryDogs.AspMvc.Models.Persistence.Admin
+
+@{
+    ViewData["Title"] = "App-Admin";
+}
+
+<h1>Restaurants</h1>
+
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>Id</th>   
+            <th>Name</th>
+            <th>OwnerName</th>
+            <th>UniqueName</th>
+            <th>Email</th>
+            <th>State</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (Restaurant restaurant in Model.Restaurant )
+        {
+        <tr>
+            <td>@restaurant.Id</td>
+            <td>@restaurant.Name</td>
+            <td>@restaurant.OwnerName</td>
+            <td>@restaurant.UniqueName</td>
+            <td>@restaurant.Email</td>
+            <td>@restaurant.State</td>
+            <td>
+                @Html.ActionLink("Edit", "Edit", new { id = restaurant.Id }) |
+                @Html.ActionLink("Detail", "Detail", new { id = restaurant.Id }) |
+                @Html.ActionLink("Delete", "Delete", new { id = restaurant.Id })
+            </td>
+        </tr>
+        }
+    </tbody>
+</table>
+
+
+<h1>OpeningHours</h1>
+
+<p>
+    <a asp-action="Creates">Create New</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>Id</th>
+            <th>OpenFrom</th>
+            <th>OpenTo</th>
+            <th>Weekday</th>
+            <th>Notes</th>
+            <th>RestaurantId</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (OpeningHour openingHour in Model.OpeningHour)
+        {
+        <tr>
+            <th>@openingHour.Id</th>
+            <td>@openingHour.OpenFrom</td>
+            <td>@openingHour.OpenTo</td>
+            <td>@openingHour.Weekday</td>
+            <td>@openingHour.Notes</td>
+            <td>@openingHour.RestaurantId</td>
+
+            <td>
+                @Html.ActionLink("Edit", "Edits", new { id = openingHour.Id }) |
+                @Html.ActionLink("Detail", "Details", new { id = openingHour.Id }) |
+                @Html.ActionLink("Delete", "Deletes", new { id = openingHour.Id })
+            </td>
+        </tr>
+    }
+        </tbody>
+    </table>
+
+
+

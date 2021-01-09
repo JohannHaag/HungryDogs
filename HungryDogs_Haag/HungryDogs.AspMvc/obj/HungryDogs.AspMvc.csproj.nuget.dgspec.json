@@ -1,0 +1,393 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\haagj\\Documents\\5BHIF_Gesamt\\5bhif\\PROO\\HungryDogs_Haag\\HungryDogs.AspMvc\\HungryDogs.AspMvc.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\haagj\\Documents\\5BHIF_Gesamt\\5bhif\\PROO\\HungryDogs_Haag\\CommonBase\\CommonBase.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\haagj\\Documents\\5BHIF_Gesamt\\5bhif\\PROO\\HungryDogs_Haag\\CommonBase\\CommonBase.csproj",
+        "projectName": "CommonBase",
+        "projectPath": "C:\\Users\\haagj\\Documents\\5BHIF_Gesamt\\5bhif\\PROO\\HungryDogs_Haag\\CommonBase\\CommonBase.csproj",
+        "packagesPath": "C:\\Users\\haagj\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\haagj\\Documents\\5BHIF_Gesamt\\5bhif\\PROO\\HungryDogs_Haag\\CommonBase\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\haagj\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "EntityFramework": {
+              "target": "Package",
+              "version": "[6.4.4, )"
+            },
+            "Microsoft.AspNet.Identity.EntityFramework": {
+              "target": "Package",
+              "version": "[2.2.3, )"
+            },
+            "Microsoft.AspNet.Mvc": {
+              "target": "Package",
+              "version": "[5.2.7, )"
+            },
+            "Microsoft.AspNetCore.Mvc.Core": {
+              "target": "Package",
+              "version": "[2.2.5, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.1, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[5.0.1, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer.Design": {
+              "target": "Package",
+              "version": "[1.1.6, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.1, )"
+            },
+            "System.Data.SqlClient": {
+              "target": "Package",
+              "version": "[4.8.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\haagj\\Documents\\5BHIF_Gesamt\\5bhif\\PROO\\HungryDogs_Haag\\HungryDogs.AspMvc\\HungryDogs.AspMvc.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\haagj\\Documents\\5BHIF_Gesamt\\5bhif\\PROO\\HungryDogs_Haag\\HungryDogs.AspMvc\\HungryDogs.AspMvc.csproj",
+        "projectName": "HungryDogs.AspMvc",
+        "projectPath": "C:\\Users\\haagj\\Documents\\5BHIF_Gesamt\\5bhif\\PROO\\HungryDogs_Haag\\HungryDogs.AspMvc\\HungryDogs.AspMvc.csproj",
+        "packagesPath": "C:\\Users\\haagj\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\haagj\\Documents\\5BHIF_Gesamt\\5bhif\\PROO\\HungryDogs_Haag\\HungryDogs.AspMvc\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\haagj\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\Users\\haagj\\Documents\\5BHIF_Gesamt\\5bhif\\PROO\\HungryDogs_Haag\\HungryDogs.Contracts\\HungryDogs.Contracts.csproj": {
+                "projectPath": "C:\\Users\\haagj\\Documents\\5BHIF_Gesamt\\5bhif\\PROO\\HungryDogs_Haag\\HungryDogs.Contracts\\HungryDogs.Contracts.csproj"
+              },
+              "C:\\Users\\haagj\\Documents\\5BHIF_Gesamt\\5bhif\\PROO\\HungryDogs_Haag\\HungryDogs.Logic\\HungryDogs.Logic.csproj": {
+                "projectPath": "C:\\Users\\haagj\\Documents\\5BHIF_Gesamt\\5bhif\\PROO\\HungryDogs_Haag\\HungryDogs.Logic\\HungryDogs.Logic.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "EntityFramework": {
+              "target": "Package",
+              "version": "[6.4.4, )"
+            },
+            "Microsoft.AspNet.Mvc": {
+              "target": "Package",
+              "version": "[5.2.7, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.1, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer.Design": {
+              "target": "Package",
+              "version": "[1.1.6, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.1, )"
+            },
+            "System.Data.SqlClient": {
+              "target": "Package",
+              "version": "[4.8.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\haagj\\Documents\\5BHIF_Gesamt\\5bhif\\PROO\\HungryDogs_Haag\\HungryDogs.Contracts\\HungryDogs.Contracts.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\haagj\\Documents\\5BHIF_Gesamt\\5bhif\\PROO\\HungryDogs_Haag\\HungryDogs.Contracts\\HungryDogs.Contracts.csproj",
+        "projectName": "HungryDogs.Contracts",
+        "projectPath": "C:\\Users\\haagj\\Documents\\5BHIF_Gesamt\\5bhif\\PROO\\HungryDogs_Haag\\HungryDogs.Contracts\\HungryDogs.Contracts.csproj",
+        "packagesPath": "C:\\Users\\haagj\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\haagj\\Documents\\5BHIF_Gesamt\\5bhif\\PROO\\HungryDogs_Haag\\HungryDogs.Contracts\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\haagj\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\Users\\haagj\\Documents\\5BHIF_Gesamt\\5bhif\\PROO\\HungryDogs_Haag\\CommonBase\\CommonBase.csproj": {
+                "projectPath": "C:\\Users\\haagj\\Documents\\5BHIF_Gesamt\\5bhif\\PROO\\HungryDogs_Haag\\CommonBase\\CommonBase.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "EntityFramework": {
+              "target": "Package",
+              "version": "[6.4.4, )"
+            },
+            "Microsoft.AspNet.Identity.EntityFramework": {
+              "target": "Package",
+              "version": "[2.2.3, )"
+            },
+            "Microsoft.AspNet.Mvc": {
+              "target": "Package",
+              "version": "[5.2.7, )"
+            },
+            "Microsoft.AspNetCore.Mvc.Core": {
+              "target": "Package",
+              "version": "[2.2.5, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.1, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[5.0.1, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer.Design": {
+              "target": "Package",
+              "version": "[1.1.6, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.1, )"
+            },
+            "System.Data.SqlClient": {
+              "target": "Package",
+              "version": "[4.8.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\haagj\\Documents\\5BHIF_Gesamt\\5bhif\\PROO\\HungryDogs_Haag\\HungryDogs.Logic\\HungryDogs.Logic.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\haagj\\Documents\\5BHIF_Gesamt\\5bhif\\PROO\\HungryDogs_Haag\\HungryDogs.Logic\\HungryDogs.Logic.csproj",
+        "projectName": "HungryDogs.Logic",
+        "projectPath": "C:\\Users\\haagj\\Documents\\5BHIF_Gesamt\\5bhif\\PROO\\HungryDogs_Haag\\HungryDogs.Logic\\HungryDogs.Logic.csproj",
+        "packagesPath": "C:\\Users\\haagj\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\haagj\\Documents\\5BHIF_Gesamt\\5bhif\\PROO\\HungryDogs_Haag\\HungryDogs.Logic\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\haagj\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\Users\\haagj\\Documents\\5BHIF_Gesamt\\5bhif\\PROO\\HungryDogs_Haag\\CommonBase\\CommonBase.csproj": {
+                "projectPath": "C:\\Users\\haagj\\Documents\\5BHIF_Gesamt\\5bhif\\PROO\\HungryDogs_Haag\\CommonBase\\CommonBase.csproj"
+              },
+              "C:\\Users\\haagj\\Documents\\5BHIF_Gesamt\\5bhif\\PROO\\HungryDogs_Haag\\HungryDogs.Contracts\\HungryDogs.Contracts.csproj": {
+                "projectPath": "C:\\Users\\haagj\\Documents\\5BHIF_Gesamt\\5bhif\\PROO\\HungryDogs_Haag\\HungryDogs.Contracts\\HungryDogs.Contracts.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "EntityFramework": {
+              "target": "Package",
+              "version": "[6.4.4, )"
+            },
+            "Microsoft.AspNet.Identity.EntityFramework": {
+              "target": "Package",
+              "version": "[2.2.3, )"
+            },
+            "Microsoft.AspNet.Mvc": {
+              "target": "Package",
+              "version": "[5.2.7, )"
+            },
+            "Microsoft.AspNetCore.Mvc.Core": {
+              "target": "Package",
+              "version": "[2.2.5, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.1, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[5.0.1, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer.Design": {
+              "target": "Package",
+              "version": "[1.1.6, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.1, )"
+            },
+            "System.Data.SqlClient": {
+              "target": "Package",
+              "version": "[4.8.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

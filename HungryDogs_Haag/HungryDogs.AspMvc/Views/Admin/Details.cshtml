@@ -1,0 +1,30 @@
+@model HungryDogs.AspMvc.Models.Persistence.Admin
+
+@{
+    ViewData["Title"] = "App-Admin";
+}
+
+<h1>OpeningHours</h1>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>Id</th>
+            <th>OpenFrom</th>
+            <th>OpenTo</th>
+            <th>Weekday</th>
+            <th>Notes</th>
+            <th>RestaurantId</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>@Model.OpeningHours.Id</td>
+            <td>@Model.OpeningHours.OpenFrom</td>
+            <td>@Model.OpeningHours.OpenTo</td>
+            <td>@Model.OpeningHours.Weekday</td>
+            <td>@Model.OpeningHours.Notes</td>
+            <td>@Model.OpeningHours.RestaurantId</td>
+        </tr>
+    </tbody>
+</table>
