@@ -2,7 +2,7 @@
 
 namespace HungryDogs.Logic.DataContext
 {
-    class ProjectDbContext : DbContext
+    public class ProjectDbContext : DbContext
     {
         static string ConnectionString = "Data Source=(localdb)\\MSSQLLocalDB;Database=HungryDogsDb;Integrated Security=True";
         public DbSet<Entities.Persistence.Restaurant> RestaurauntSet { get; set; }

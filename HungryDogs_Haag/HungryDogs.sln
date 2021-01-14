@@ -13,7 +13,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HungryDogs.WebApi", "Hungry
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HungryDogs.ConApp", "HungryDogs.ConApp\HungryDogs.ConApp.csproj", "{75256711-EACF-4BAD-B8A7-D9007DC5D141}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HungryDogs.AspMvc", "HungryDogs.AspMvc\HungryDogs.AspMvc.csproj", "{AA9213C4-C07A-4DEB-BC99-66A0CA0F953C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HungryDogs.AspMvc", "HungryDogs.AspMvc\HungryDogs.AspMvc.csproj", "{AA9213C4-C07A-4DEB-BC99-66A0CA0F953C}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{613C48F9-36B4-4C2C-9D91-700F8EA8C8FF}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

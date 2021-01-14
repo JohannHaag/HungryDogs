@@ -74,6 +74,7 @@ namespace HungryDogs.Logic.Controllers.Persistence
             contract.CheckArgument(nameof(contract));
 
             entity.Id = contract.Id;
+            entity.RestaurantId = contract.RestaurantId;
             entity.From = contract.From;
             entity.To = contract.To;
             entity.Notes = contract.Notes;

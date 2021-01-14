@@ -9,10 +9,10 @@ namespace HungryDogs.Logic.Entities.Persistence
         public TimeSpan OpenFrom { get; set; }
         public TimeSpan OpenTo { get; set; }
         public string Notes { get; set; }
-		// Navigation
-		public Restaurant Restaurant { get; set; }
 
-        
+        public OpeningHour()
+        {
 
-	}
+        }
+    }
 }
