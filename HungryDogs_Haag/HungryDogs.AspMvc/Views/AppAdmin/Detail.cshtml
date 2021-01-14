@@ -1,0 +1,30 @@
+@model HungryDogs.AspMvc.Models.Persistence.AppAdmin
+
+@{
+    ViewData["Title"] = "App-Admin";
+}
+
+<h1>Restaurants</h1>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>Id</th>
+            <th>Name</th>
+            <th>OwnerName</th>
+            <th>UniqueName</th>
+            <th>Email</th>
+            <th>State</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>@Model.Restaurants.Id</td>
+            <td>@Model.Restaurants.Name</td>
+            <td>@Model.Restaurants.OwnerName</td>
+            <td>@Model.Restaurants.UniqueName</td>
+            <td>@Model.Restaurants.Email</td>
+            <td>@Model.Restaurants.State</td>
+        </tr>
+    </tbody>
+</table>

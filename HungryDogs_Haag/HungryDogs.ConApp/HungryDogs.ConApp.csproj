@@ -21,6 +21,7 @@
   </ItemGroup>
 
   <ItemGroup>
+    <ProjectReference Include="..\HungryDogs.Contracts\HungryDogs.Contracts.csproj" />
     <ProjectReference Include="..\HungryDogs.Logic\HungryDogs.Logic.csproj" />
   </ItemGroup>
 

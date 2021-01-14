@@ -87,14 +87,32 @@ namespace HungryDogs.AspMvc.Controllers
             }
             return View(restaurant);
         }
-
-        // GET: Restaurant/Delete/1
-        public async Task<IActionResult> Delete(int? id)
+        [ActionName("Delete")]
+        public ActionResult Delete(int? id)
         {
-            var restaurant = await _context.Restaurant.FindAsync(id);
-            _context.Restaurant.Remove(restaurant);
-            await _context.SaveChangesAsync();
+            var restaurant = _context.Restaurant.Find(id);
+            if (restaurant != null)
+            {
+                _context.Restaurant.Remove(restaurant);
+                _context.SaveChangesAsync();
+            }
+            return View(restaurant);
+        }
+
+
+        [HttpPost]
+        [ValidateAntiForgeryToken]
+        [ActionName("Delete")]
+        public ActionResult DeleteR(int? id)
+        {
+            var restaurant = _context.Restaurant.Find(id);
+            if (restaurant != null)
+            {
+                _context.Restaurant.Remove(restaurant);
+                _context.SaveChangesAsync();
+            }
             return RedirectToAction(nameof(Index));
         }
     }
 }
+

@@ -13,5 +13,6 @@ namespace HungryDogs.AspMvc.Models
         public DateTime? To { get; set; }
         public string Notes { get; set; }
         public SpecialOpenState State { get; set; }
+        public int RestaurantId { get; set; }
     }
 }

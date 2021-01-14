@@ -69,7 +69,7 @@ namespace HungryDogs.AspMvc
                  pattern:"{controller=Home}/{action=Index}/{id?}");
                 endpoints.MapControllerRoute(
                  name: "default",
-                 pattern: "{action=Admin}/{controller=Admin}");
+                 pattern: "{action=AppAdmin}/{controller=AppAdmin}");
                 endpoints.MapControllerRoute(
                  name: "default",
                  pattern: "{action=Customer}/{controller=Customer}");

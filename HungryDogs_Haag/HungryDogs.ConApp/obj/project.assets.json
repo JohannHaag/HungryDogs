@@ -8568,6 +8568,7 @@
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v3.1": [
       "EntityFramework >= 6.4.4",
+      "HungryDogs.Contracts >= 1.0.0",
       "HungryDogs.Logic >= 1.0.0",
       "Microsoft.AspNet.Identity.EntityFramework >= 2.2.3",
       "Microsoft.AspNet.Mvc >= 5.2.7",
@@ -8606,6 +8607,9 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
+            "C:\\Users\\haagj\\Documents\\5BHIF_Gesamt\\5bhif\\PROO\\HungryDogs_Haag\\HungryDogs.Contracts\\HungryDogs.Contracts.csproj": {
+              "projectPath": "C:\\Users\\haagj\\Documents\\5BHIF_Gesamt\\5bhif\\PROO\\HungryDogs_Haag\\HungryDogs.Contracts\\HungryDogs.Contracts.csproj"
+            },
             "C:\\Users\\haagj\\Documents\\5BHIF_Gesamt\\5bhif\\PROO\\HungryDogs_Haag\\HungryDogs.Logic\\HungryDogs.Logic.csproj": {
               "projectPath": "C:\\Users\\haagj\\Documents\\5BHIF_Gesamt\\5bhif\\PROO\\HungryDogs_Haag\\HungryDogs.Logic\\HungryDogs.Logic.csproj"
             }
@@ -8676,7 +8680,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.101\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.102\\RuntimeIdentifierGraph.json"
       }
     }
   },
